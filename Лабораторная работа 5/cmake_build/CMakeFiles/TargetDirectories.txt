@@ -1,0 +1,7 @@
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/LR_5.dir
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/edit_cache.dir
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/rebuild_cache.dir
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/list_install_components.dir
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/install.dir
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/install/local.dir
+/Users/gri/Documents/Герцена/Программирование/C_Programming_1k-2s/C_files/LR_5/cmake_build/CMakeFiles/install/strip.dir
